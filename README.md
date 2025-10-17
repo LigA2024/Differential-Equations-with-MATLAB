@@ -20,9 +20,8 @@ Andalusian Institute of Geophysics and Prevention of Seismic Disasters.
 Granada University (Ugr), Granada, Spain
       
 -------------------------------------------------------------------------------------------------------------------------------------------
-
-    Author Docente: Ligdamis A. Gutiérrez PhD (1,2,3)
-    Ambato, Ecuador 2015-2016
+Author Docente: Ligdamis A. Gutiérrez PhD (1,2,3)
+Ambato, Ecuador 2015-2016
 
 Institutions associated:
 
