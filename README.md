@@ -1,8 +1,8 @@
 # Differential Equations with MATLAB
 
-Lesson: Practical user manuals for Differential Equations. These manuals represent a fourth-semester course in the analytical curriculum of the 
+**Lesson: Practical user manuals for Differential Equations. These manuals represent a fourth-semester course in the analytical curriculum of the 
 Civil Engineering program at the Faculty of Civil and Mechanical Engineering. The manual establishes the basic concepts and practices of first-order 
-differential equations, based on a review of derivatives and integrals, using the mathematical language MATLAB.
+differential equations, based on a review of derivatives and integrals, using the mathematical language MATLAB.**
 -------------------------------------------------------------------------------------------------------------------------------------------
 Differential Equations with MATLAB
 "Ecuaciones Diferenciales con MATLAB".
