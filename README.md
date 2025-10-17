@@ -42,6 +42,7 @@ WARNING: Do not modify or edit the documentation material without the author's p
 We are grateful to the management of the Faculty of Civil and Mechanical Engineering of the Technical University of Ambato (UTA) - Ambato, Ecuador, 
 for allowing the creation of this document by the author, as an integral part of the subject of Differential Equations within the analytical plan 
 of the Civil Engineering Degree, for fourth-semester students, during the 2015 and 2016 academic years.
+
 The Author, Teaching: Ligdamis A. Gutiérrez E., PhD.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
