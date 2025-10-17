@@ -30,12 +30,13 @@ Institutions associated:
 
 (3) Technical University of Ambato (UTA). Ambato, Ecuador.
 
-'' WARNING: Do not modify or edit the documentation material without the author's permission.
+WARNING: Do not modify or edit the documentation material without the author's permission.
    If you use this documentation, please indicate and reference the author and the institutions he represents.
-  
+
+  
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Acknowledgment:
+**Acknowledgment:**
 
 We are grateful to the management of the Faculty of Civil and Mechanical Engineering of the Technical University of Ambato (UTA) - Ambato, Ecuador, 
 for allowing the creation of this document by the author, as an integral part of the subject of Differential Equations within the analytical plan 
@@ -44,7 +45,7 @@ The Author, Teaching: Ligdamis A. Gutiérrez E., PhD.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Introduction:
+**Introduction:**
 
 Dear User:
 
@@ -99,7 +100,7 @@ This course focuses more on practical aspects, as a support and aid to the knowl
 GENERAL CONTENT INDEX: Contents of each module
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-GENERAL OBJECTIVE:
+**GENERAL OBJECTIVE:**
 
 Generate practical knowledge based on positive-critical thinking and logical reasoning, aided by the use of 
 specific mathematical analysis software such as Matlab, which is necessary for understanding this course on Differential Equations.
@@ -136,17 +137,17 @@ mathematical analysis and practical results in a much more useful way in the fie
 
 The specific objectives and contents of each unit are as follows:
 
-a) Unit 1:
+**a) Unit 1:**
 
 Analyze preconditions and definitions to integrate them into the use of differential equations, know and manage the mathematical program Matlab and its 
 use with derivatives, integrals and differential equations, and can develop programs in Matlab including 2D and 3D graphics, which applies in the following units.
 
-b) Unit 2:
+**b) Unit 2:**
 
 To understand the different applications of applied mathematical models as equations and the use of differential equations applied to mathematical models, as well as 
 to understand and develop additional topics in the solution of first-order and first-degree differential equations: linear, exact, homogeneous, separable, and Bernoulli.
 
-c) Unit 3:
+**c) Unit 3:**
 
 Know and apply graphical and numerical methods to develop solutions to higher-order linear equations, homogeneous with constant coefficients, through the application 
 of graphical methods such as isoclines, and numerical methods such as Euler and Runge-Kutta of 1st and 4th order, as well as the application to Taylor series 
