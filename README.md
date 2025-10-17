@@ -11,7 +11,6 @@ Differential Equations with MATLAB
                   Version 1.0
                   
 -------------------------------------------------------------------------------------------------------------------------------------------
- 
 Theoretical Physics and the Cosmos Department
 
 Signal Theory, Telematics and Communications Department
