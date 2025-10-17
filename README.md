@@ -12,10 +12,10 @@ Differential Equations with MATLAB
                   
 -------------------------------------------------------------------------------------------------------------------------------------------
  
-          Theoretical Physics and the Cosmos Department
-      Signal Theory, Telematics and Communications Department
----- Andalusian Institute of Geophysics and Prevention of Seismic Disasters ----------
-      Granada University (Ugr), Granada, Spain
+Theoretical Physics and the Cosmos Department
+Signal Theory, Telematics and Communications Department
+Andalusian Institute of Geophysics and Prevention of Seismic Disasters
+Granada University (Ugr), Granada, Spain
       
 -------------------------------------------------------------------------------------------------------------------------------------------
 
